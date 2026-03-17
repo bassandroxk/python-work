@@ -1,47 +1,75 @@
 # 🐍 Python Work
 
-A collection of Python experiments, notebooks, and labs — built for learning, testing, and exploration.
+<p align="center">
+  <b>A collection of Python experiments, notebooks, and labs</b><br>
+  Built for learning, testing, and exploration 🚀
+</p>
 
-📁 Repo: https://github.com/bassandroxk/python-work :contentReference[oaicite:2]{index=2}
+<p align="center">
+  <a href="https://github.com/bassandroxk/python-work">
+    <img src="https://img.shields.io/badge/Repo-python--work-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+## 🧠 Skills & Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Data%20Analysis-Beginner-4CAF50?style=for-the-badge">
+<img src="https://img.shields.io/badge/Scripting-Automation-6A5ACD?style=for-the-badge">
+
+</p>
+
+---
+
+## 🌐 Languages
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-Native-yellow?style=for-the-badge&logo=python">
+
+</p>
 
 ---
 
 ## 📂 Repository Structure
 
-Here’s how the project is organized with clickable links:
-
 ### 🧪 Lab Experiments
 
-Explore each folder/experiment in your `lab/` directory:
-
 - 🔗 [`lab`](https://github.com/bassandroxk/python-work/tree/main/lab)  
-  All current Python lab work & experimental scripts/notebooks. :contentReference[oaicite:3]{index=3}
+  Contains all Python lab work, experiments, and notebooks.
 
-  *(You can add individual links to each experiment inside `lab/` if you want more granularity — just list them here.)*
+> 💡 You can expand this section by linking individual experiments later.
+
+---
 
 ### 🔍 Other Content
 
-- 📄 `.ipynb_checkpoints/` – Auto-saved notebook checkpoints. :contentReference[oaicite:4]{index=4}
-- 🔧 `.gitattributes` – Git config file. :contentReference[oaicite:5]{index=5}
+- 📄 `.ipynb_checkpoints/` – Auto-saved notebook states  
+- 🔧 `.gitattributes` – Git configuration file  
 
 ---
 
 ## 🚀 What’s Inside
 
-This repo currently contains:
+- 🐍 Python lab projects  
+- 📊 Data analysis experiments  
+- 📓 Jupyter notebooks  
+- ⚡ Quick prototyping scripts  
 
-- Python lab projects
-- Data analysis / learning experiments
-- Jupyter notebooks from personal study
-- Rapid prototyping scripts
-
-_All code is exploratory and a work-in-progress._
+> ⚠️ All code is exploratory and constantly evolving.
 
 ---
 
 ## 📥 How to Use
 
-Clone the repo:
+Clone the repository:
 
 ```bash
 git clone https://github.com/bassandroxk/python-work.git
+cd python-work
